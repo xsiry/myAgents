@@ -9,7 +9,7 @@
       "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
       "pluginName": "example-skills",
       "installedAt": "2026-03-17T02:29:54.627Z",
-      "updatedAt": "2026-03-17T02:29:54.627Z"
+      "updatedAt": "2026-03-23T09:43:23.242Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -28,7 +28,7 @@
       "skillFolderHash": "98a510d1cfef9f82c3b1eec200229ca68725e613",
       "pluginName": "example-skills",
       "installedAt": "2026-03-17T02:38:06.579Z",
-      "updatedAt": "2026-03-17T02:38:06.579Z"
+      "updatedAt": "2026-03-23T09:45:04.049Z"
     },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -39,6 +39,106 @@
       "pluginName": "ui-ux-pro-max",
       "installedAt": "2026-03-17T05:36:42.177Z",
       "updatedAt": "2026-03-17T05:36:42.177Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-03-23T09:43:28.945Z",
+      "updatedAt": "2026-03-23T09:43:28.945Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "69bf4a7eeeaa772290c1c5efd19da0865f903af8",
+      "installedAt": "2026-03-23T09:44:02.695Z",
+      "updatedAt": "2026-03-23T09:44:02.695Z"
+    },
+    "playwright-best-practices": {
+      "source": "currents-dev/playwright-best-practices-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/currents-dev/playwright-best-practices-skill.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "ef329e7e65149918e1ff0eed2cf7d2e6e6f9eb5b",
+      "installedAt": "2026-03-23T09:44:12.952Z",
+      "updatedAt": "2026-03-23T09:44:12.952Z"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "skillFolderHash": "0dc67032a28f3a4a60c6c8b766e2b089df26bcb3",
+      "installedAt": "2026-03-23T09:44:36.725Z",
+      "updatedAt": "2026-03-23T09:44:36.725Z"
+    },
+    "typescript-advanced-types": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/typescript-advanced-types/SKILL.md",
+      "skillFolderHash": "a2fe3beb2f08b66b467981df7e09a2ccc5c9c7d2",
+      "installedAt": "2026-03-23T09:44:43.494Z",
+      "updatedAt": "2026-03-23T09:44:43.494Z"
+    },
+    "api-design-principles": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/backend-development/skills/api-design-principles/SKILL.md",
+      "skillFolderHash": "4a9f363dc7a13301fe5c6aaa2d4f185a8e230113",
+      "installedAt": "2026-03-23T09:44:55.893Z",
+      "updatedAt": "2026-03-23T09:44:55.893Z"
+    },
+    "screenshot-to-code": {
+      "source": "onewave-ai/claude-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/onewave-ai/claude-skills.git",
+      "skillPath": "screenshot-to-code/SKILL.md",
+      "skillFolderHash": "c4e502f4ed61996c54c4398a2b10f743156dc60b",
+      "installedAt": "2026-03-23T09:55:53.398Z",
+      "updatedAt": "2026-03-23T09:55:53.398Z"
+    },
+    "next-best-practices": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/next-skills.git",
+      "skillPath": "skills/next-best-practices/SKILL.md",
+      "skillFolderHash": "ad17eb27952b39a6ab0061bd50e8a2213b63a3ec",
+      "installedAt": "2026-03-24T01:11:38.632Z",
+      "updatedAt": "2026-03-24T01:11:38.632Z"
+    },
+    "requesting-code-review": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/requesting-code-review/SKILL.md",
+      "skillFolderHash": "ed265b1a03114cc400d5524afc5c961a4aa9ea8b",
+      "installedAt": "2026-03-24T01:11:44.287Z",
+      "updatedAt": "2026-03-24T01:11:44.287Z"
+    },
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
+      "skillPath": "skills/agent-browser/SKILL.md",
+      "skillFolderHash": "2cc38c81352e5c6e51c750ee11b8e2d0df28a7ae",
+      "pluginName": "agent-browser",
+      "installedAt": "2026-03-24T01:11:55.494Z",
+      "updatedAt": "2026-03-24T01:11:55.494Z"
+    },
+    "deploy-to-vercel": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/deploy-to-vercel/SKILL.md",
+      "skillFolderHash": "1378aa506439f26c809dbcfc61515cbd70f93d69",
+      "installedAt": "2026-03-24T01:15:08.213Z",
+      "updatedAt": "2026-03-24T01:15:08.213Z"
     }
   },
   "dismissed": {
