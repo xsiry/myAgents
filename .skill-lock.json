@@ -54,9 +54,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
       "skillPath": "skills/react-best-practices/SKILL.md",
-      "skillFolderHash": "69bf4a7eeeaa772290c1c5efd19da0865f903af8",
+      "skillFolderHash": "a203aee7243640ceb56ce2c6c4ab286573df5e69",
       "installedAt": "2026-03-23T09:44:02.695Z",
-      "updatedAt": "2026-03-23T09:44:02.695Z"
+      "updatedAt": "2026-04-10T07:08:55.956Z"
     },
     "playwright-best-practices": {
       "source": "currents-dev/playwright-best-practices-skill",
@@ -72,9 +72,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/wshobson/agents.git",
       "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
-      "skillFolderHash": "0dc67032a28f3a4a60c6c8b766e2b089df26bcb3",
+      "skillFolderHash": "a8532caa4b6284a92c686bc9346c274e6e66aaa5",
       "installedAt": "2026-03-23T09:44:36.725Z",
-      "updatedAt": "2026-03-23T09:44:36.725Z"
+      "updatedAt": "2026-04-10T07:08:59.835Z"
     },
     "typescript-advanced-types": {
       "source": "wshobson/agents",
@@ -126,10 +126,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
       "skillPath": "skills/agent-browser/SKILL.md",
-      "skillFolderHash": "2cc38c81352e5c6e51c750ee11b8e2d0df28a7ae",
-      "pluginName": "agent-browser",
+      "skillFolderHash": "b6f762bf402cdfaf6a06514e9ce4142ce3e4fb4c",
       "installedAt": "2026-03-24T01:11:55.494Z",
-      "updatedAt": "2026-03-24T01:11:55.494Z"
+      "updatedAt": "2026-04-10T07:09:05.404Z"
     },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
@@ -139,6 +138,78 @@
       "skillFolderHash": "1378aa506439f26c809dbcfc61515cbd70f93d69",
       "installedAt": "2026-03-24T01:15:08.213Z",
       "updatedAt": "2026-03-24T01:15:08.213Z"
+    },
+    "design-md": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/design-md/SKILL.md",
+      "skillFolderHash": "0a84781f35accede7cf373a4129d93bfb7651930",
+      "installedAt": "2026-04-14T04:29:11.514Z",
+      "updatedAt": "2026-04-14T04:29:11.514Z"
+    },
+    "enhance-prompt": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/enhance-prompt/SKILL.md",
+      "skillFolderHash": "ee608061b9209907f5f296670483884c5eb20827",
+      "installedAt": "2026-04-14T04:29:12.790Z",
+      "updatedAt": "2026-04-14T04:29:12.790Z"
+    },
+    "react:components": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/react-components/SKILL.md",
+      "skillFolderHash": "c201fcfad2b656a7e4276bd2a4d10611a79321f8",
+      "installedAt": "2026-04-14T04:29:13.583Z",
+      "updatedAt": "2026-04-14T04:29:13.583Z"
+    },
+    "remotion": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/remotion/SKILL.md",
+      "skillFolderHash": "ff9c6b50c98e38fa3d46560391b16894731d3bc3",
+      "installedAt": "2026-04-14T04:29:14.100Z",
+      "updatedAt": "2026-04-14T04:29:14.100Z"
+    },
+    "shadcn-ui": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/shadcn-ui/SKILL.md",
+      "skillFolderHash": "def8b780a6f3857ca964d1a02c144ef6f86fb21c",
+      "installedAt": "2026-04-14T04:29:14.606Z",
+      "updatedAt": "2026-04-14T04:29:14.606Z"
+    },
+    "stitch-design": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/stitch-design/SKILL.md",
+      "skillFolderHash": "824aa2fe9eed4b4dfc9a855b54ef35b59fe36be1",
+      "installedAt": "2026-04-14T04:29:15.189Z",
+      "updatedAt": "2026-04-14T04:29:15.189Z"
+    },
+    "stitch-loop": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/stitch-loop/SKILL.md",
+      "skillFolderHash": "439a760b3c37eaa925fa994728f05b7618d99f8c",
+      "installedAt": "2026-04-14T04:29:15.877Z",
+      "updatedAt": "2026-04-14T04:29:15.877Z"
+    },
+    "taste-design": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/taste-design/SKILL.md",
+      "skillFolderHash": "9b0d4827e32e8688348fa131a4aedcb9ac34ff0d",
+      "installedAt": "2026-04-14T04:29:16.579Z",
+      "updatedAt": "2026-04-14T04:29:16.579Z"
     }
   },
   "dismissed": {
@@ -146,9 +217,12 @@
   },
   "lastSelectedAgents": [
     "amp",
+    "antigravity",
     "cline",
     "codex",
     "cursor",
+    "deepagents",
+    "firebender",
     "gemini-cli",
     "github-copilot",
     "kimi-cli",
