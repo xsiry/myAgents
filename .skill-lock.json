@@ -54,9 +54,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
       "skillPath": "skills/react-best-practices/SKILL.md",
-      "skillFolderHash": "a203aee7243640ceb56ce2c6c4ab286573df5e69",
+      "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
       "installedAt": "2026-03-23T09:44:02.695Z",
-      "updatedAt": "2026-04-10T07:08:55.956Z"
+      "updatedAt": "2026-04-20T06:07:59.797Z"
     },
     "playwright-best-practices": {
       "source": "currents-dev/playwright-best-practices-skill",
@@ -126,9 +126,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
       "skillPath": "skills/agent-browser/SKILL.md",
-      "skillFolderHash": "b6f762bf402cdfaf6a06514e9ce4142ce3e4fb4c",
+      "skillFolderHash": "121eecacd86c0aab06aef5cd4663e80c5397cd41",
       "installedAt": "2026-03-24T01:11:55.494Z",
-      "updatedAt": "2026-04-10T07:09:05.404Z"
+      "updatedAt": "2026-04-20T06:08:02.573Z"
     },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
