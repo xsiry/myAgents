@@ -25,10 +25,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/anthropics/skills.git",
       "skillPath": "skills/skill-creator/SKILL.md",
-      "skillFolderHash": "98a510d1cfef9f82c3b1eec200229ca68725e613",
-      "pluginName": "example-skills",
+      "skillFolderHash": "3cf9a8db32597ba3e24b584a3d696f4e11c7d7b6",
       "installedAt": "2026-03-17T02:38:06.579Z",
-      "updatedAt": "2026-03-23T09:45:04.049Z"
+      "updatedAt": "2026-04-28T04:40:04.004Z"
     },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -56,7 +55,7 @@
       "skillPath": "skills/react-best-practices/SKILL.md",
       "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
       "installedAt": "2026-03-23T09:44:02.695Z",
-      "updatedAt": "2026-04-20T06:07:59.797Z"
+      "updatedAt": "2026-04-28T04:40:09.190Z"
     },
     "playwright-best-practices": {
       "source": "currents-dev/playwright-best-practices-skill",
@@ -128,7 +127,7 @@
       "skillPath": "skills/agent-browser/SKILL.md",
       "skillFolderHash": "121eecacd86c0aab06aef5cd4663e80c5397cd41",
       "installedAt": "2026-03-24T01:11:55.494Z",
-      "updatedAt": "2026-04-20T06:08:02.573Z"
+      "updatedAt": "2026-04-28T04:40:15.206Z"
     },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
@@ -210,6 +209,15 @@
       "skillFolderHash": "9b0d4827e32e8688348fa131a4aedcb9ac34ff0d",
       "installedAt": "2026-04-14T04:29:16.579Z",
       "updatedAt": "2026-04-14T04:29:16.579Z"
+    },
+    "gpt-image-2": {
+      "source": "agentspace-so/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/agentspace-so/agent-skills.git",
+      "skillPath": "gpt-image-2/SKILL.md",
+      "skillFolderHash": "4dd75970c7016692524c0ceed4de96ca7764172a",
+      "installedAt": "2026-04-28T04:05:59.016Z",
+      "updatedAt": "2026-04-28T04:05:59.016Z"
     }
   },
   "dismissed": {
