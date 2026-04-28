@@ -1,0 +1,7 @@
+.omx/
+
+# Local browser auth/session artifacts generated during skill usage.
+*.auth-state.json
+
+# Default GPT Image 2 outputs when generated from the repo root.
+image-*.png
