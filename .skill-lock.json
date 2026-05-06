@@ -107,18 +107,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/next-skills.git",
       "skillPath": "skills/next-best-practices/SKILL.md",
-      "skillFolderHash": "ad17eb27952b39a6ab0061bd50e8a2213b63a3ec",
+      "skillFolderHash": "a236d702277c5364cf6f540712a8dddb46e79a46",
       "installedAt": "2026-03-24T01:11:38.632Z",
-      "updatedAt": "2026-03-24T01:11:38.632Z"
+      "updatedAt": "2026-05-06T14:01:55.354Z"
     },
     "requesting-code-review": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/requesting-code-review/SKILL.md",
-      "skillFolderHash": "ed265b1a03114cc400d5524afc5c961a4aa9ea8b",
+      "skillFolderHash": "ff419ec159bdf5ff2f2d83c7e544c586bcde69bb",
       "installedAt": "2026-03-24T01:11:44.287Z",
-      "updatedAt": "2026-03-24T01:11:44.287Z"
+      "updatedAt": "2026-05-06T14:02:15.655Z"
     },
     "agent-browser": {
       "source": "vercel-labs/agent-browser",
@@ -215,9 +215,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/agentspace-so/agent-skills.git",
       "skillPath": "gpt-image-2/SKILL.md",
-      "skillFolderHash": "4dd75970c7016692524c0ceed4de96ca7764172a",
+      "skillFolderHash": "15b3a48babf955f2460520833bc82c772ce71417",
       "installedAt": "2026-04-28T04:05:59.016Z",
-      "updatedAt": "2026-04-28T04:05:59.016Z"
+      "updatedAt": "2026-05-06T14:02:47.981Z"
     }
   },
   "dismissed": {
